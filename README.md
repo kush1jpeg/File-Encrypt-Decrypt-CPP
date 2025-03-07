@@ -29,10 +29,11 @@ This project is a simple file encryption and decryption tool written in C++. It 
 2. Compile the C++ code:
    ```pwsh
    g++ fileEncryptDecrypt.cpp encryptor.cpp -o encryptor
-                // it Compiles both file and links them into a single executable named encryptor
-
-   ```                  
-3. Run the executable:
+ 
+   ```
+    ///it Compiles both file and links them into a single executable named encryptor
+            
+4. Run the executable:
    ```sh
    ./encryptor
    ```
